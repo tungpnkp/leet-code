@@ -1,0 +1,1 @@
+# return date(year, month, day).strftime("%A")
